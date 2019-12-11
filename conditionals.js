@@ -28,3 +28,4 @@ if(!raining) {
 }
 
 console.log("Now you're ready to go outside! and vote! or whatever!");
+
