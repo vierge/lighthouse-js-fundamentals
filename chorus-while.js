@@ -9,5 +9,4 @@ while (repeat < 10) {
   console.log(chorus);
   repeat++;
 }
-console.log("*boop boop boop boop --- boop boop boop boop boop");
-
+console.log("*boop boop boop boop --- boop boop boop boop boop*");
